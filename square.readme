@@ -1,0 +1,7 @@
+- use "C:\\Users\\david\\OneDrive\\Documents\\daveo\\CompProgLangFall_2022\\SML\\square.sml";
+[opening C:\Users\david\OneDrive\Documents\daveo\CompProgLangFall_2022\SML\square.sml]
+val square = fn : real -> real
+val it = () : unit
+- square(2.2);
+val it = 4.84 : real
+-
