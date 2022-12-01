@@ -1,0 +1,7 @@
+- use "C:\\Users\\david\\OneDrive\\Documents\\daveo\\CompProgLangFall_2022\\SML\\powerucf.sml";
+[opening C:\Users\david\OneDrive\Documents\daveo\CompProgLangFall_2022\SML\powerucf.sml]
+val powerucf = fn : int * int -> int
+val it = () : unit
+- powerucf( 2 ,2);
+val it = 4 : int
+-
