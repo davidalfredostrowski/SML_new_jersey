@@ -1,0 +1,15 @@
+- use "C:\\Users\\david\\OneDrive\\Documents\\daveo\\CompProgLangFall_2022\\SML\\powcf.sml";
+[opening C:\Users\david\OneDrive\Documents\daveo\CompProgLangFall_2022\SML\powcf.sml]
+val powcf = fn : int -> int -> int
+val it = () : unit
+- powcf(2)
+= ;
+val it = fn : int -> int
+- val square = powcf(2)
+= ;
+val square = fn : int -> int
+- square(5);
+val it = 25 : int
+- square(10);
+val it = 100 : int
+-
